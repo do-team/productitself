@@ -17,8 +17,8 @@ navigation sidebar to read more details.
 ### In a nutshell...
 
 ![illustation](img/title.jpg)
-<small>Image courtesy of Mart Virkus at https://toggl.com/ (<a href="https://i.imgur.com/IMPvTZd.jpg">original</a>)</small>
+<small>Image courtesy of Mart Virkus ([blog](https://toggl.com/)) = [original](https://i.imgur.com/IMPvTZd.jpg)</small>
 
 ### Document hosting
 
-This document is hosted on [GitHub Pages]().
+This document is hosted on [GitHub Pages](https://do-team.github.io/productitself/).
