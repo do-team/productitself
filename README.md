@@ -17,7 +17,8 @@ navigation sidebar to read more details.
 ### In a nutshell...
 
 ![illustation](img/title.jpg)
-<small>Image courtesy of Mart Virkus ([blog](https://toggl.com/)) = [original](https://i.imgur.com/IMPvTZd.jpg)</small>
+
+Image courtesy of [Mart Virkus](https://toggl.com/) ([original](https://i.imgur.com/IMPvTZd.jpg))
 
 ### Document hosting
 
